@@ -1,6 +1,6 @@
 {
   "name": "@mrmikkou/custom-select",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Custom select for tailwindcss (study)",
   "main": "module.js",
   "license": "MIT"
