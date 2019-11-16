@@ -1,0 +1,76 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CustomSelect check html 1`] = `
+<div
+  class="m-select"
+>
+  <div
+    class="m-select__title py-2 px-2"
+  >
+    
+  
+  </div>
+   
+  <div
+    class="m-select__list"
+    name="fade"
+  >
+    <ul>
+      <li
+        class="m-select__item px-2 py-2"
+      >
+        test1
+        
+      </li>
+      <li
+        class="m-select__item px-2 py-2"
+      >
+        test2
+        
+      </li>
+      <li
+        class="m-select__item px-2 py-2"
+      >
+        test3
+        
+      </li>
+      <li
+        class="m-select__item px-2 py-2"
+      >
+        test4
+        
+      </li>
+      <li
+        class="m-select__item px-2 py-2"
+      >
+        test5
+        
+      </li>
+      <li
+        class="m-select__item px-2 py-2"
+      >
+        test6
+        
+      </li>
+      <li
+        class="m-select__item px-2 py-2"
+      >
+        test7
+        
+      </li>
+      <li
+        class="m-select__item px-2 py-2"
+      >
+        test8
+        
+      </li>
+      <li
+        class="m-select__item px-2 py-2"
+      >
+        test9
+        
+      </li>
+    </ul>
+  </div>
+</div>
+`;
