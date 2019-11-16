@@ -2,9 +2,11 @@
 study nuxt module
 
 #Quick start
+
 ```npm i @mrmikkou/custom-select```
 
 ###nuxt.config.js
+
 ```
 modules: [
     '@mrmikkou/custom-select'
